@@ -5,3 +5,4 @@
 - carne
 - bolo de cenoura
  - ovo mexido
+- strogonoff
